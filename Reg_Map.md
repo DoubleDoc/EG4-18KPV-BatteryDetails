@@ -1,13 +1,8 @@
 # Battery Detailed Data Register Map
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
-
+Addr: Modbus word index into IR (Input Register) array
+data 16: Hexidecimal data read from register
+data 10: Decimal equivalent adjusted for units
 
 | Addr|data 16|data 10|Item                  |Unit     |Range |Note      |
 |:---:|------:|------:|:---------------------|:--------|:---: |:---------|
@@ -52,6 +47,7 @@
 | 5027|0      |       |                       |        |      |unknown   |
 | 5028|0      |       |                       |        |      |unknown   |
 | 5029|0      |       |                       |        |      |unknown   |
+
 
 
 
