@@ -51,6 +51,7 @@ data 10: Decimal equivalent adjusted for units
 | 5028|0      |       |                       |        |      |unknown   |
 | 5029|0      |       |                       |        |      |unknown   |
 
+Data repeats for additional battery packs at IR5030 and increasing.
 
 
 
