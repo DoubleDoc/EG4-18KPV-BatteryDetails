@@ -8,7 +8,8 @@ These data are present within the inverter registers, but where and how they are
 This whitepaper describes knowledge developed from a brief examination of communication behavior on a single system. The hope is to facilitate inclusion of this data on private monitoring platforms and aid further work to better complete an understanding of the battery pack-level data.
 
 About the research to date:
-Only a single inverter has been examined. Firmware version fAAB-2525. A RJ45 communication module is actively monitored by the eg4 monitor server.
+Only a single inverter has been examined. Firmware version fAAB-2525. 
+A RJ45 communication module is actively monitored by the eg4 monitor server.
 Four identical batteries are monitored in a closed-loop configuration by this inverter. The batteries are early EG4 All Weather wall mount models.
 FYI-there is another inverter acting as slave sharing these batteries.
 Data was collected using wireshark on the local network.
