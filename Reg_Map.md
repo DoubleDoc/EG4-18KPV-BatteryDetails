@@ -39,10 +39,10 @@ data 10: Decimal equivalent adjusted for units
 | 5021|65     |e      |                      |ASCII    |      |*         |
 |     |72     |r      |                      |ASCII    |      |*         |
 | 5022|79     |y      |                      |ASCII    |      |*         |
-|     |5F     |/_    |                      |ASCII    |      |*         |
+|     |5F     |\_     |                      |ASCII    |      |*         |
 | 5023|49     |I      |                      |ASCII    |      |*         |
 |     |44     |D      |                      |ASCII    |      |*         |
-| 5024|5F     |\_    |                       |ASCII    |      |*         |
+| 5024|5F     |\_     |                      |ASCII    |      |*         |
 |     |30     |0      |                      |ASCII    |      |*         |
 | 5025|31     |1      |                      |ASCII    |      |*         |
 |     |0      |       |                      |         |      |unknown   |
@@ -53,6 +53,7 @@ data 10: Decimal equivalent adjusted for units
 | 5029|0      |       |                       |        |      |unknown   |
 
 Data repeats for additional battery packs at IR5030 and increasing.
+
 
 
 
