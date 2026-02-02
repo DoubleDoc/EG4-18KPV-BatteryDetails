@@ -5,7 +5,7 @@ The EG4 monitoring center website (https://monitor.eg4electronics.com/) collects
 <img width="975" height="430" alt="image" src="https://github.com/user-attachments/assets/59892eba-4029-47e7-b1a5-6bd0b95a573d" />
 These data are present within the inverter registers, but where and how they are formatted may not have been disclosed. The data are useful for pack management and particularly for optimal inter-pack balancing.
 
-Thisresearch describes knowledge developed from a brief examination of communication behavior on a single system. The hope is to facilitate incorporation of these data into private monitoring platforms and aid further work to better complete an understanding of the battery pack-level data.
+This research describes knowledge developed from a brief examination of communication behavior on a single system. The hope is to facilitate incorporation of these data into private monitoring platforms and aid further work to better complete an understanding of the battery pack-level data.
 
 # About the research to date
 
