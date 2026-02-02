@@ -17,7 +17,7 @@ Four identical batteries are monitored in a closed-loop configuration using EG4 
 
 FYI-there is another inverter acting as slave sharing these batteries.
 
-Data was collected using wireshark on the local network.
+Data were collected using wireshark on the local network.
 
 # Call for Help
 
