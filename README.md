@@ -1,2 +1,3 @@
 # EG4-18KPV-BatteryDetails
 Casual research results for locating generally undisclosed detailed battery data stored in EG4 18KPV inverters. Publishing a modbus register map of findings
+The EG4 monitoring center website (https://monitor.eg4electronics.com/) collects and displays data for their branded inverters and batteries operating in closed loop configuration. Data is polled at about 1 minute intervals using a form of modbus/tcp protocol. Much of the status/operating data displayed can be found in publicly released documents describing the modbus register assignments adopted by the manufacturer (Luxpower). At this time, not all register assignments have been found publicly. Of particular interest are the battery pack-level data.
