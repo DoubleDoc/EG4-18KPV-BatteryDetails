@@ -1,4 +1,4 @@
-** Battery Detailed Data Register Map **
+**Battery Detailed Data Register Map**
 
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -53,4 +53,5 @@
 | 5027|0      |       |                       |        |      |unknown   |
 | 5028|0      |       |                       |        |      |unknown   |
 | 5029|0      |       |                       |        |      |unknown   |
+
 
