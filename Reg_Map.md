@@ -1,4 +1,5 @@
-﻿Input Addr|Sample data 16|Sample data 10|Item|Unit|Range|Note
+
+ Input Addr|Sample data 16|Sample data 10|Item|Unit|Range|Note
 5000|0|||||unknown
 5001|0|||||unknown
 5002|C040|||||unknown
@@ -40,3 +41,4 @@
 5027|0|||||unknown
 5028|0|||||unknown
 5029|0|||||unknown
+
