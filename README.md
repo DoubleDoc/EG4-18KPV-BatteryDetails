@@ -25,4 +25,14 @@ The pack-level data maintained by the inverter is stored in a linear array begin
 There are 30 words allocated to each pack. 
 The first pack data is at IR5000, the next pack at IR5030, and continuing.
 
+Reference the 'Reg_Map.xlsx' file for the register map known so far. 
+
+The major constraints to this project have been limited variability and lack of internal system code. 
+
+I have only one battery type, and one inverter model. Likely the data include battery model data, and different firmware versions may generate different data. One expected field is missing - pack temperature. My packs may not have a functioning PCB thermistor.
+
+Without insignts into the BMS design or internal coding, status and alarm indicators are unknwown. There are enough unknown areas in the map for these important signals to locate.
+
+Any and all input will be appreciated and shared.
+
 
