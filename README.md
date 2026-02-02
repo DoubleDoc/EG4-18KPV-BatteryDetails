@@ -7,7 +7,7 @@ These data are present within the inverter registers, but where and how they are
 
 This whitepaper describes knowledge developed from a brief examination of communication behavior on a single system. The hope is to facilitate inclusion of this data on private monitoring platforms and aid further work to better complete an understanding of the battery pack-level data.
 
-About the research to date:
+# About the research to date
 
 Only a single inverter has been examined. Firmware version fAAB-2525. 
 
@@ -19,15 +19,15 @@ FYI-there is another inverter acting as slave sharing these batteries.
 
 Data was collected using wireshark on the local network.
 
-Input Register Mapping Table
+#Input Register Mapping Table
 
 The pack-level data maintained by the inverter is stored in a linear array beginning at IR 5000. 
 There are 30 words allocated to each pack. 
 The first pack data is at IR5000, the next pack at IR5030, and continuing.
 
-Reference the 'Reg_Map.xlsx' file for the register map known so far. 
+**Reference the 'Reg_Map.xlsx' file for the register map known so far. **
 
-The major constraints to this project have been limited variability and lack of internal system code. 
+#The major constraints to this project have been limited variability and lack of internal system code. 
 
 I have only one battery type, and one inverter model. Likely the data include battery model data, and different firmware versions may generate different data. One expected field is missing - pack temperature. My packs may not have a functioning PCB thermistor.
 
