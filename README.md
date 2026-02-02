@@ -21,7 +21,7 @@ Data was collected using wireshark on the local network.
 
 # Input Register Mapping Table
 
-The pack-level data maintained by the inverter is stored in a linear array beginning at IR 5000. 
+The pack-level data maintained by the inverter are stored in a linear array beginning at IR 5000. 
 There are 30 words allocated to each pack. 
 The first pack data is at IR5000, the next pack at IR5030, and continuing.
 
