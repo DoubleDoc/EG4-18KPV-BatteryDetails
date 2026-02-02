@@ -31,7 +31,7 @@ The first pack data are at IR5000, the next pack at IR5030, and continuing.
 
 __Reference the [Register Map](Reg_Map.md) file for the register assignments known so far__
 
-# Project constrained by limited variability and lack of internal system code
+# Project constrained by limited variability and closed system code
 
 I have only one battery type, and one inverter model. Likely the data include battery model data, and different battery firmware versions may generate different data. One expected field is missing - pack temperature. My packs appear to not have functioning PCB thermistors.
 
