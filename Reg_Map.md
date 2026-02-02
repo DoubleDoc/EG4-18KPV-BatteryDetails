@@ -1,5 +1,7 @@
 # Battery Detailed Data Register Map
 
+Updated 2026/02/01
+
 Addr: Modbus word index into IR (Input Register) array, base 10
 
 data 16: Hexidecimal data read from register
@@ -53,6 +55,7 @@ data 10: Decimal equivalent adjusted for units
 | 5029|0      |       |                       |        |      |unknown   |
 
 Data repeats for additional battery packs at IR5030 and increasing.
+
 
 
 
