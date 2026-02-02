@@ -1,8 +1,11 @@
 # Battery Detailed Data Register Map
 
 Addr: Modbus word index into IR (Input Register) array
+
 data 16: Hexidecimal data read from register
+
 data 10: Decimal equivalent adjusted for units
+
 
 | Addr|data 16|data 10|Item                  |Unit     |Range |Note      |
 |:---:|------:|------:|:---------------------|:--------|:---: |:---------|
@@ -47,6 +50,7 @@ data 10: Decimal equivalent adjusted for units
 | 5027|0      |       |                       |        |      |unknown   |
 | 5028|0      |       |                       |        |      |unknown   |
 | 5029|0      |       |                       |        |      |unknown   |
+
 
 
 
