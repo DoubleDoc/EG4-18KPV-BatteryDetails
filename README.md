@@ -8,6 +8,7 @@ These data are present within the inverter registers, but where and how they are
 This whitepaper describes knowledge developed from a brief examination of communication behavior on a single system. The hope is to facilitate inclusion of this data on private monitoring platforms and aid further work to better complete an understanding of the battery pack-level data.
 
 About the research to date:
+
 Only a single inverter has been examined. Firmware version fAAB-2525. 
 
 A RJ45 communication module is actively monitored by the eg4 monitor server.
