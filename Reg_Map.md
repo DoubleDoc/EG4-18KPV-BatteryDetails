@@ -1,5 +1,14 @@
 ** Battery Detailed Data Register Map **
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+
+
 |Input|Sample |Sample |Item                  |Unit     |Range |Note      |
 |:---:|   ---:|   ---:|:---                  |:---     |:---: |:---      |
 | Addr|data 16|data 10|                      |         |      |          |
@@ -44,3 +53,4 @@
 | 5027|0      |       |                       |        |      |unknown   |
 | 5028|0      |       |                       |        |      |unknown   |
 | 5029|0      |       |                       |        |      |unknown   |
+
