@@ -25,7 +25,7 @@ The pack-level data maintained by the inverter are stored in a linear array begi
 There are 30 words allocated to each pack. 
 The first pack data is at IR5000, the next pack at IR5030, and continuing.
 
-__Reference the (./Reg_Map.xlsx) file for the register map known so far__
+__Reference the [Register Map](Reg_Map.xlsx) file for the register map known so far__
 
 # The major constraints to this project have been limited variability and lack of internal system code. 
 
