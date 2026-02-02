@@ -21,7 +21,7 @@ Data was collected using wireshark on the local network.
 
 # Call for Help
 
-Any additioanl observations or input will be appreciated and shared. Beyond verifying and finishing out these status words, there possibly may be some control functions implemented though HR registers.
+Any additional observations or input will be appreciated and shared. Beyond verifying and finishing out these status words, there possibly may be some control functions implemented though HR registers.
 
 # Input Register Mapping Table
 
