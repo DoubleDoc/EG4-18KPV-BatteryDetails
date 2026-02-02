@@ -9,8 +9,7 @@
 
 
 
-|Input|Sample |Sample |Item                  |Unit     |Range |Note      |
-| Addr|data 16|data 10|                      |         |      |          |
+| Addr|data 16|data 10|Item                  |Unit     |Range |Note      |
 |:---:|------:|------:|:---------------------|:--------|:---: |:---------|
 | 5000|0      |       |                      |         |      |unknown   |
 | 5001|0      |       |                      |         |      |unknown   |
@@ -53,6 +52,7 @@
 | 5027|0      |       |                       |        |      |unknown   |
 | 5028|0      |       |                       |        |      |unknown   |
 | 5029|0      |       |                       |        |      |unknown   |
+
 
 
 
