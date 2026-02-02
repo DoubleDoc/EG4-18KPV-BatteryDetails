@@ -35,7 +35,7 @@ __Reference the [Register Map](Reg_Map.md) file for the register assignments kno
 
 I have only one battery type, and one inverter model. Likely the data include battery model data, and different battery firmware versions may generate different data. One expected field is missing - pack temperature. My packs appear to not have functioning PCB thermistors.
 
-Without insignts into the BMS design or internal coding, status and alarm indicators are unknwown. There are enough unknown areas within the registers for these important signals to locate. I would expect some cell-level faults, which could be indicated by bits within words. I also expect some pack level status and alarm/fault fields.
+Without insignts into the BMS design or internal coding, status and alarm indicators are unknown. There are enough unknown areas within the registers for these important signals to locate. I would expect some cell-level faults, which could be indicated by bits within words. I also expect some pack level status and alarm/fault fields.
 
 
 
