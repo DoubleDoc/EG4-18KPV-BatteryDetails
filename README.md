@@ -31,6 +31,16 @@ The first pack data are at IR5000, the next pack at IR5030, and continuing.
 
 __Reference the [Register Map](Reg_Map.md) file for the register assignments known so far__
 
+# Documented Inverter Registers
+
+Some battery data has been defined already. Not verified in this work, but appearing in multiple modbus register map disclosures. See IRs 80-112. This mapping hints that a maximum of 10 parallel battery packs are supported.
+
+IR95 may indicate this mapping data exists.
+
+IR96 may identify how many parallel packs are available in the mapping found here.
+
+[EG4 Inverter Mapping](EG4-18kPV-12LV - MODBUS Communication Protocol v2.pdf)
+
 # Project constrained by limited variability and closed system code
 
 I have only one battery type, and one inverter model. Likely the data include battery model data/identifiers, and different battery firmware versions may generate different data. One expected field is missing - pack temperature. My packs appear to not have functioning PCB thermistors.
