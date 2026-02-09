@@ -37,7 +37,7 @@ I have only one battery type, and one inverter model. Likely the data include ba
 
 Without insignts into the BMS design or internal coding, status and alarm indicators are unknown. There are enough unknown areas within the registers for these important signals to locate. I would expect some cell-level faults, which could be indicated by bits within words. I also expect some pack level status and alarm/fault fields.
 
-#Future/In Process Standards Work
+# Future/In Process Standards Work
 
 Check out the Sunspec Alliance standardization work. Secrets become public disclosure requirement. Modbus and IEEE-1547 certifications. EG4 noted the 1547 certification in a recent inverter firmware update.
 
