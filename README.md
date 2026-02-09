@@ -39,7 +39,7 @@ IR95 may indicate this mapping data exists.
 
 IR96 may identify how many parallel packs are available in the mapping found here.
 
-[EG4 Inverter Mapping](EG4-18kPV-12LV - MODBUS Communication Protocol v2.pdf)
+ [EG4 Inverter Mapping]([EG4-18kPV-12LV - MODBUS Communication Protocol v2.pdf](https://github.com/DoubleDoc/EG4-18KPV-BatteryDetails/blob/f930eb186f5bad76914684665f4b5dead9e64380/EG4-18kPV-12LV%20-%20MODBUS%20Communication%20Protocol%20v2.pdf))
 
 # Project constrained by limited variability and closed system code
 
