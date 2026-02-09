@@ -39,7 +39,7 @@ Without insignts into the BMS design or internal coding, status and alarm indica
 
 # Future/In Process Standards Work
 
-Check out the Sunspec Alliance standardization work. Secrets become public disclosure requirement. Modbus and IEEE-1547 certifications. EG4 noted the 1547 certification in a recent inverter firmware update.
+Check out the Sunspec Alliance standardization work. Secrets become public disclosure requirement. Modbus and IEEE-1547 certifications. EG4 noted the 1547 certification in a recent inverter firmware update, but there are alternate communication options and comms are only in a later revision.
 
 Model definitions are the disclosure
 https://github.com/sunspec/models
