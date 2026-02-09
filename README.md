@@ -44,6 +44,8 @@ Check out the Sunspec Alliance standardization work. Secrets become public discl
 Model definitions are the disclosure
 https://github.com/sunspec/models
 
+Luxpower example of Sunspec Alliance model complete with modbus registers defined: [Luxpower Model](EG4_White_Label_Certificate_Lux_Power_Modbus_for_1547_PICS_SM000043.xlsx) 
+
 Software for testing 
 https://github.com/sunspec/pysunspec
 
