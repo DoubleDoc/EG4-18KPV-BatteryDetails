@@ -43,6 +43,7 @@ Check out the Sunspec Alliance standardization work. Secrets become public discl
 
 Model definitions are the disclosure
 https://github.com/sunspec/models
+Model 805 most closely matches the data types sought in this research.
 
 Luxpower (claiming for EG4 18KPv-12LV) example of Sunspec Alliance model complete with modbus registers defined: [Luxpower Model](EG4_White_Label_Certificate_Lux_Power_Modbus_for_1547_PICS_SM000043.xlsx) 
 This model is not the mapping in released 18KPVs I have scanned, and it does not include the battery data mapped here. This model states it applies to firmware version fA1.0 (or FA1.0).
