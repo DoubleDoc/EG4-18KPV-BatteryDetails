@@ -39,7 +39,7 @@ IR80 (BatComType) = 0 (CAN bus).
 
 IR80 (BatTypeAndBrand) = 6.
 
-IR90 (BatStatus5_BMS) = 0xC0. This seems an anomaly for BMS status. There is no Battery 5, and teh 0xC0 appears in an unknown section of the newly mapped IR5000 array.
+IR90 (BatStatus5_BMS) = 0xC0. This seems an anomaly for BMS status. There is no Battery 5, and the 0xC0 appears in an unknown section of the newly mapped IR5000 array.
 
 IR95 may indicate this mapping data exists. In this case, IR95 (BatStatus_INV) = 3.
 
