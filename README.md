@@ -35,9 +35,15 @@ __Reference the [Register Map](Reg_Map.md) file for the register assignments kno
 
 Some battery data has been defined already. Not verified in this work, but appearing in multiple modbus register map disclosures. See IRs 80-112. This mapping hints that a maximum of 10 parallel battery packs are supported.
 
-IR95 may indicate this mapping data exists.
+IR80 (BatComType) = 0 (CAN bus).
 
-IR96 may identify how many parallel packs are available in the mapping found here.
+IR80 (BatTypeAndBrand) = 6.
+
+IR90 (BatStatus5_BMS) = 0xC0. This seems an anomaly for BMS status. There is no Battery 5, and teh 0xC0 appears in an unknown section of the newly mapped IR5000 array.
+
+IR95 may indicate this mapping data exists. In this case, IR95 (BatStatus_INV) = 3.
+
+IR96 may identify how many parallel packs are available in the mapping found here. In this case, IR96 (BattParallelNum) = 4
 
  [EG4 Inverter Mapping]([EG4-18kPV-12LV - MODBUS Communication Protocol v2.pdf](https://github.com/DoubleDoc/EG4-18KPV-BatteryDetails/blob/f930eb186f5bad76914684665f4b5dead9e64380/EG4-18kPV-12LV%20-%20MODBUS%20Communication%20Protocol%20v2.pdf))
 
