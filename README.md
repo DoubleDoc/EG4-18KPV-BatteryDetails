@@ -1,3 +1,10 @@
+# Update - OBSOLETE
+
+This register mapping was already developed and exploited earlier.  See (https://github.com/joyfulhouse/pylxpweb).   
+
+And specifically (https://github.com/joyfulhouse/pylxpweb/blob/c75d6784f663b50c596799bc69585f7a5441c931/src/pylxpweb/registers/battery.py#L116)
+
+GREAT WORK!
 # EG4-18KPV-BatteryDetails
 These are casual research results for locating generally undisclosed detailed battery data stored in EG4 18KPV Solar-hybrid inverters. The deliverable is a mapping of modbus registers discovered.
 
