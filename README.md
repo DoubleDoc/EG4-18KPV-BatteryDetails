@@ -33,7 +33,7 @@ __Reference the [Register Map](Reg_Map.md) file for the register assignments kno
 
 # Documented Inverter Registers
 
-Some battery data has been defined already. Not verified in this work, but appearing in multiple modbus register map disclosures. See IRs 80-112. This mapping hints that a maximum of 10 parallel battery packs are supported. But, I am skeptical since one of the 10 BMS status registers contains suspicious data.
+Some battery data have been defined in the Inverter mapping documents. Not verified in this work, but appearing in multiple modbus register map disclosures. See IRs 80-112. This mapping hints that a maximum of 10 parallel battery packs are supported. But, I am skeptical since one of the 10 BMS status registers contains suspicious data.
 
 IR80 (BatComType) = 0 (CAN bus).
 
