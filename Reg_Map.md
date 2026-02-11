@@ -1,6 +1,14 @@
-# Battery Detailed Data Register Map
+Updated 2026/02/010
 
-Updated 2026/02/01
+# Update - OBSOLETE
+
+This register mapping was already developed and exploited earlier.  See https://github.com/joyfulhouse/pylxpweb.   
+
+And specifically https://github.com/joyfulhouse/pylxpweb/blob/c75d6784f663b50c596799bc69585f7a5441c931/src/pylxpweb/registers/battery.py#L116
+
+GREAT WORK!
+
+# Battery Detailed Data Register Map
 
 Addr: Modbus word index into IR (Input Register) array, base 10
 
@@ -55,6 +63,7 @@ data 10: Decimal equivalent adjusted for units
 | 5029|0      |       |                       |        |      |unknown   |
 
 Data repeats for additional battery packs at IR5030 and increasing.
+
 
 
 
